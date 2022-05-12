@@ -1,0 +1,19 @@
+body { 
+    background-color:bisque;
+}
+h1 { 
+    font-family: Arial, Helvetica, sans-serif;
+}
+h2 { 
+    font-family: monospace;
+}
+h3 { 
+    font-family: monospace;
+}
+p { 
+    font-family: cursive;
+}
+li { 
+    font-family: monospace;
+    font-size: large;
+}
