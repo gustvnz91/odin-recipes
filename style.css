@@ -1,5 +1,19 @@
+.main_index { 
+    background: url(/pics/pexels-timur-saglambilek-66639.jpg);
+    background-size:cover;
+    color: rgb(156, 25, 25);
+}
+.main_ul { 
+    color:red;
+}
+
+header { 
+    font-size: 50px;
+    text-align: center;
+}
 body { 
-    background-color:bisque;
+    color:black;
+    background-color: rgb(205, 198, 203);
 }
 h1 { 
     font-family: Arial, Helvetica, sans-serif;
@@ -12,8 +26,9 @@ h3 {
 }
 p { 
     font-family: cursive;
+    font-size: 20px;
 }
 li { 
     font-family: monospace;
-    font-size: large;
+    font-size: 18px;
 }
